@@ -1,14 +1,14 @@
-**Preamble** 
+Preamble
 The EDL Public License (EPLv1) is designed to encourage open collaboration and innovation around the EDL programming language ecosystem, while protecting the rights of contributors and users. It provides a balanced copyleft framework tailored for system-level programming and tooling.
 
 1. Definitions
-* “EDL Code” means any original or modified source code or related files written in or for the EDL programming language.
+“EDL Code” means any original or modified source code or related files written in or for the EDL programming language.
 
-* “Contributor” means any person or entity who creates or modifies EDL Code.
+“Contributor” means any person or entity who creates or modifies EDL Code.
 
-* “Licensed Materials” means the original and modified EDL Code under this license.
+“Licensed Materials” means the original and modified EDL Code under this license.
 
-* “You” means the licensee who uses, modifies, or distributes the Licensed Materials.
+“You” means the licensee who uses, modifies, or distributes the Licensed Materials.
 
 2. Grant of Rights
 You are granted a worldwide, royalty-free, non-exclusive license to use, reproduce, modify, and distribute the Licensed Materials under the terms of this license.
